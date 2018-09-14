@@ -5,10 +5,10 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-.npy
-.hdf5
+*.npy
+*.hdf5
 
 # Data folders
-train/
-validation/
-test/
+src/train/
+src/validation/
+src/test/
