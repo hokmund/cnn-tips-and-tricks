@@ -12,3 +12,4 @@ __pycache__/
 src/train/
 src/validation/
 src/test/
+src/*.tar.gz
