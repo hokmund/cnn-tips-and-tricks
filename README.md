@@ -6,7 +6,9 @@ To prepare for the workshop, please:
 
 1. Clone code from this repository.
 
-2. Download data, checkpoints and bottleneck features from http://tiny.cc/4flryy
+2. Download data, checkpoints and bottleneck features from http://tiny.cc/4flryy 
+
+   There are 3 Gb of data and checkpoints, so be sure to download and unzip them before the conference.
 
 3. Extract them from the archive and place under `src/`
 
@@ -31,4 +33,4 @@ To prepare for the workshop, please:
 4. Run `pip install -r requirements.txt`
 
 
-Code was developed and tested on Ubuntu 16.04 and Python 3.6. However, it should work on Windows and Mac OS with Python 3.4+ versions as well.
+Code was developed and tested on Ubuntu 16.04 and Python 3.6. However, it should work on Windows and Mac OS as well.
