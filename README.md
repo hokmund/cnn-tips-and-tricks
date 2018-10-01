@@ -34,3 +34,5 @@ To prepare for the workshop, please:
 
 
 Code was developed and tested on Ubuntu 16.04 and Python 3.6. However, it should work on Windows and Mac OS as well.
+
+If you want to speed-up computations in this workshop, but you don't have enough CPU/GPU, please try Google Colab Cloud TPU (https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb).
